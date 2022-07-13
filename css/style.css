@@ -1,0 +1,35 @@
+.container{
+    align-content: center;
+    margin: 0 auto;
+    height: 100vh auto;
+}
+
+.card-content{
+    background: red;
+    
+}
+
+.card-img{
+    margin-bottom: 20px;
+    padding: 20px;
+}
+
+.card-img a h4{
+    color: rgb(37, 133, 211);
+    font-size: 1.3em;
+    text-align: center;
+    font-weight: 900;
+}
+
+.card-img a {
+    text-decoration: none;
+}
+
+.card-img a img{
+    width: 120px;
+}
+
+.card-login, .card-home, .card-abrir-chamado, .card-consultar-chamado {
+    padding: 5px;
+    margin: 0 auto;
+}
